@@ -1,6 +1,6 @@
 # Veterinary API
 
 * .NET 6
-* Entity Framwork Core
+* Entity Framework Core
 * Repository pattern
 * DTO's
